@@ -1,8 +1,8 @@
 class Shotctl < Formula
   desc "Change macOS screenshot format, location, shadow and filename prefix"
   homepage "https://github.com/sleipner01/shotctl"
-  url "https://github.com/sleipner01/shotctl/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "70ec3d08fdf1378c549408a1604ae50f197bb9e8dd8f5cefdb27a7ba23fb2814"
+  url "https://github.com/sleipner01/shotctl/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "7b4a83ed2d8f1b1cef2a2a036f0d1e46073a8098eafcecf6248c6c40da59ed3c"
   license "MIT"
 
   depends_on :macos
